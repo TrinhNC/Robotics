@@ -1,0 +1,3 @@
+(https://support.stereolabs.com/hc/en-us/articles/360007395634-What-is-the-camera-focal-length-and-field-of-view-)
+
+fov = 2*arctan(pixelNumber/(2*focalLength)) * (180/pi)
